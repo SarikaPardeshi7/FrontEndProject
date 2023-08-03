@@ -1,1 +1,2 @@
-# FrontEndProject
+Hello friends! Hope you are doing Well.
+I am glad to share that I have successfully completed my first front-end project which is "Online Cake Shopping Website" developed using the technologies such as HTML5, CSS3, JavaScript, jQuery and BootStrap. This project has really helped me to learn how to build the website attractive and useful. It really improved my skills in the areas like HTML5, CSS3, JavaScript, jQuery and BootStrap. Hope you will like it!
